@@ -111,6 +111,11 @@ This is described in the `API Reference <API usage_>`_.
 It is strongly recommended that you read the Concepts_ that *Parasect* employs, if you plan to make full use of it.
 
 
+Documentation
+------------
+Find the documentation for Parasect here:https://parasect.readthedocs.io/en/latest/
+
+
 Contributing
 ------------
 
